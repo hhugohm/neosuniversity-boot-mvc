@@ -6,20 +6,20 @@ Pasos para instalación de SPRING BOOT MVC
 1.- Crear un proyecto mediante Initialzr
 https://start.spring.io/
 
-2.- Java Project
-Maven Project
-Group: com.neos.university
-Artifact: neosuniversity-boot-mvc
-Dependenies: Web, Thymeleaf
+2.- Java Project con la siguiente informacion
+* Maven Project
+* Group: com.neos.university
+* Artifact: neosuniversity-boot-mvc
+* Dependenies: Web, Thymeleaf
 
 3.- Generar el proyecto
 
 4.- Importar el proyecto mediante IntelliJ-->Opcion Import maven Projects Automatically
 
 5.- Estudiar las siguientes interfaces
-@SpringBootConfiguration
-@EnableAutoConfiguration
-@ComponentScan
+* @SpringBootConfiguration
+* @EnableAutoConfiguration
+* @ComponentScan
 
 6.- Crear un paquete  controllers
 
